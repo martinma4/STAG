@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/htmlunit-2.15.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/selenium-java-2.44.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/selenium-java-2.44.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="D:/Automation/Web Driver Code and JAR/JARS/External JARS to Add/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

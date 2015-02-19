@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AtlassianTrial" parallel="none">
+    <test name = "testConfluenceTrial">
+        <classes>
+            <class name="stag.martin.atlassian.trial.TestCases.AtlassianConfluenceTrial"/>
+        </classes>
+    </test>
+</suite>

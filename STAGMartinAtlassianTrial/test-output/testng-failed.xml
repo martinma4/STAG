@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AtlassianTrial]" parallel="none">
+  <test name="testConfluenceTrial(failed)" parallel="none">
+    <classes>
+      <class name="stag.martin.atlassian.trial.TestCases.AtlassianConfluenceTrial">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- stag.martin.atlassian.trial.TestCases.AtlassianConfluenceTrial -->
+    </classes>
+  </test> <!-- testConfluenceTrial(failed) -->
+</suite> <!-- Failed suite [AtlassianTrial] -->
